@@ -1,1 +1,15 @@
+# 文本模型配置
+model:
+  name: qwen3.7-flash
+  temperature: 0.5
+  top_p: 0.9
+  max_tokens: 10240
+  max_iterations: 10
+  max_tool_calls: 20
+
+# 文本嵌入模型（bge）配置
+embedding:
+  device: cuda            # auto / cuda / cpu；cuda 不可用时自动回退 cpu
+  batch_size: 32
+  normalize_embeddings: true
 
