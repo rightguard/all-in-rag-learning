@@ -1,0 +1,299 @@
+01_unstructured_example.py运行日志
+(vllm_wsl) root@DESKTOP-H4LVG45:/mnt/e/all-in-rag# python learn/char2/01_unstructured_example.py
+[GPU] 使用设备: cuda:0 | 显卡: NVIDIA GeForce RTX 3060 Laptop GPU | 显存: 6.0 GiB | 可见 GPU 数: 1
+[Embedding] 模型: /mnt/e/all-in-rag/model/bge_small_zh_v1.5 | batch_size: 32 | normalize: True
+[Parser] 正在解析 PDF: /mnt/e/all-in-rag/data/C2/pdf/rag.pdf
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Warning: No languages specified, defaulting to English.
+[Parser] 解析完成: 279 个元素 | 类型统计: {'Header': 22, 'Title': 195, 'UncategorizedText': 41, 'NarrativeText': 3, 'Footer': 15, 'ListItem': 3}
+解析元素转文档: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 279/279 [00:00<00:00, 276058.23元素/s]
+[Parser] 有效文本元素: 279 个
+提取内容转 Markdown: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 279/279 [00:00<00:00, 380556.36元素/s]
+[Output] 提取内容已写入: /mnt/e/all-in-rag/learn/char2/01_unstructured_extracted.md
+[Splitter] 文本被切分为 279 个块
+Embedding 向量化: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 279/279 [00:01<00:00, 259.83段/s]
+LLM 生成回答: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:15<00:00, 15.38s/次]
+[Output] 结果已写入: /mnt/e/all-in-rag/learn/char2/01_unstructured_output.md
+根据提供的上下文，这篇文档主要介绍了RAG（检索增强生成）的核心机制及其在知识填充和自动生成中的应用。
+
+RAG的基本流程包括三个主要步骤：**检索、增强和生成**。具体而言，系统首先利用大规模文档集合进行检索，获取的内容随后与用户的原始查询合并形成复合输入，最后由生成器处理该输入以创建响应。
+
+
+02_character_splitter.py日志
+(vllm_wsl) root@DESKTOP-H4LVG45:/mnt/e/all-in-rag# python learn/char2/02_character_splitter.py
+[GPU] 使用设备: cuda:0 | 显卡: NVIDIA GeForce RTX 3060 Laptop GPU | 显存: 6.0 GiB | 可见 GPU 数: 1
+[Embedding] 模型: /mnt/e/all-in-rag/model/bge_small_zh_v1.5 | batch_size: 32 | normalize: True
+[Loader] 成功加载 1 个文档
+Created a chunk of size 201, which is longer than the specified 200
+Created a chunk of size 277, which is longer than the specified 200
+Created a chunk of size 296, which is longer than the specified 200
+[Splitter] 文本被切分为 14 个块
+Embedding 向量化: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 14/14 [00:00<00:00, 18.03段/s]
+LLM 生成回答: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:18<00:00, 18.15s/次]
+[Output] 结果已写入: /mnt/e/all-in-rag/learn/char2/02_character_output.md
+根据提供的上下文信息，蜂医的角色介绍及技能特点如下：
+
+**👤 角色背景与定位**
+- 蜂医是《三角洲行动》中的一名战地医生，拥有丰富的参军履历。其干员档案中标明他有一位妻子和女儿。
+- 在团队中，他主要承担**支援与治疗**职责，是保障团队生存能力的核心。通过及时治疗与战术辅助，确保队友保持良好的战斗状态。
+
+**⚙️ 核心技能与特点**
+1. **战术装备 - 激素枪**
+   - 可发射多目标追踪子弹，能同时锁定并缓慢治疗多名友方干员。
+   - 治疗期间可抑制队友的疼痛感等异常状态。
+   - 支持远程治疗队友或进行自我治疗。
+2. **兵种道具 - 烟幕无人机**
+   - 释放长距离烟幕，可为团队创造有利的战术环境，如掩护队友转移、推进或发起突袭。
+3. **兵种道具 - 蜂巢科技烟雾弹**
+   - 投掷后产生一团白色烟雾；若使用激素枪对该烟雾射击，烟雾会转变为绿色，从而起到治疗作用。
+4. **干员特长 - 高效救援**
+   - 救援倒地队友的速度大幅提升。
+   - **全面战场模式**：约1.4秒即可救起队友，且被救起的队友能恢复更多生命值。
+   - **烽火地带模式**：能够移除队友血量上限减少的负面效果。
+
+03_recursive_character_splitter.py运行日志
+(vllm_wsl) root@DESKTOP-H4LVG45:/mnt/e/all-in-rag# python learn/char2/03_recursive_character_splitter.py
+[GPU] 使用设备: cuda:0 | 显卡: NVIDIA GeForce RTX 3060 Laptop GPU | 显存: 6.0 GiB | 可见 GPU 数: 1
+[Embedding] 模型: /mnt/e/all-in-rag/model/bge_small_zh_v1.5 | batch_size: 32 | normalize: True
+[Loader] 成功加载 1 个文档
+[Splitter] 文本被切分为 22 个块
+Embedding 向量化: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 22/22 [00:00<00:00, 29.35段/s]
+LLM 生成回答: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:21<00:00, 21.45s/次]
+[Output] 结果已写入: /mnt/e/all-in-rag/learn/char2/03_recursive_output.md
+根据提供的上下文信息，蜂医的角色介绍、技能与特点如下：
+
+**1. 角色背景与定位**
+- **背景设定**：蜂医是《三角洲行动》中的一名战地医生，拥有丰富的参军履历。其干员档案中标明他有一个妻子和女儿。
+- **团队定位**：主要承担支援和治疗的职责，是团队生存能力的重要保障。能在激烈战斗中为队友提供及时的治疗，确保队友保持良好的战斗状态；同时能利用烟幕技能为团队创造有利的战术环境（如掩护队友转移、推进或突袭等）。
+
+**2. 技能与装备**
+- **战术装备 - 激素枪**：可发射多目标追踪子弹，能同时锁定并缓慢治疗多名友方干员。治疗期间还能抑制队友的疼痛感等异常状态。该装备可用于远程治疗队友或进行自我治疗。
+- **战术道具 - 烟幕无人机**：释放长距离烟幕。
+- **战术道具 - 蜂巢科技烟雾弹**：投掷后产生一团白色烟雾。若使用激素枪对烟雾射击，烟雾会转变为绿色，从而起到治疗作用。
+
+**3. 干员特长（核心特点）**
+- **高效救援**：救援倒地队友的速度更快。
+  - 在**全面战场模式**中，约1.4秒就能救起队友，且被救起的队友能恢复更多生命值。
+  - 在**烽火地带模式**中，能够移除队友血量上限减少的负面效果。
+
+以上信息均严格基于您提供的上下文内容整理。
+
+
+04_semantic_chunker.py运行日志
+(vllm_wsl) root@DESKTOP-H4LVG45:/mnt/e/all-in-rag# python learn/char2/04_semantic_chunker.py
+/mnt/e/all-in-rag/learn/char2/04_semantic_chunker.py:9: DeprecationWarning: `langchain-community` is being sunset and is no longer actively maintained. See https://github.com/langchain-ai/langchain-community/issues/674 for details and migration guidance toward standalone integration packages.
+  from langchain_community.document_loaders import TextLoader
+/mnt/e/all-in-rag/learn/char2/04_semantic_chunker.py:19: DeprecationWarning: `langchain-experimental` is being sunset and is no longer actively maintained. See https://github.com/langchain-ai/langchain-experimental/issues/87 for details.
+  from langchain_experimental.text_splitter import SemanticChunker
+[GPU] 使用设备: cuda:0 | 显卡: NVIDIA GeForce RTX 3060 Laptop GPU | 显存: 6.0 GiB | 可见 GPU 数: 1
+[Embedding] 模型: /mnt/e/all-in-rag/model/bge_small_zh_v1.5 | batch_size: 32 | normalize: True
+[Loader] 成功加载 1 个文档
+Embedding 向量化: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 5/5 [00:00<00:00,  7.17段/s]
+[Splitter] 文本被切分为 2 个块
+Embedding 向量化: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<00:00, 119.38段/s]
+LLM 生成回答: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:21<00:00, 21.97s/次]
+[Output] 结果已写入: /mnt/e/all-in-rag/learn/char2/04_semantic_output.md
+根据提供的上下文信息，蜂医（本名罗伊·斯米）的角色介绍、技能及特点如下：
+
+### 📖 角色简介
+- **身份定位**：《三角洲行动》中的支援型干员（战地医生），拥有丰富的参军履历。早期版本中是唯一一名支援型干员。
+- **背景设定**：干员档案中明确提到他有一个妻子和一个女儿。
+- **基础信息**：男性，生日为2008年2月23日，身高176cm，体重75kg。
+
+### 🎯 角色定位
+蜂医在团队中主要承担**支援与治疗**职责，是保障团队生存能力的核心。他不仅能及时为队友提供治疗以维持良好的战斗状态，还能利用烟幕技能分割战场，为队友的转移、推进或突袭创造有利的战术环境。
+
+### ⚙️ 技能与特点
+1. **战术装备 - 激素枪**
+   - 可发射多目标追踪子弹，同时锁定并缓慢治疗多名友方干员，治疗期间还能抑制队友的疼痛感等异常状态。
+   - 开镜时仅会锁定一个目标。
+   - **模式差异**：在“全面战场”中，开镜瞄准敌人可扣除其20滴血；长按按键可自我治疗，在全面战场中恢复自身血量，在“烽火地带”模式中可消除自身如骨折的负面效果。
+
+2. **战术道具 - 烟幕无人机**
+   - 能控制手势感应无人机向前飞行并喷射烟幕，形成一条长15米的烟雾长廊。
+   - 无人机飞行时，长按开火键可引导转向改变烟幕走向，常用于分割战场、掩护队友撤退或进攻。
+
+3. **战术道具 - 蜂巢科技烟雾弹**
+   - 投掷后在区域内产生一团白色烟雾，可作为常规烟雾掩护使用。
+   - **特殊联动**：用激素枪向其烟雾射击，可将其染色为绿色的治疗烟雾，使处于烟雾中的队友获得缓慢回血效果。
+
+4. **干员特长 - 高效救援**
+   - 救援倒地队友的速度更快。
+   - **全面战场模式**：约1.4秒即可救起队友，且被救起的队友不会存在扣血效果，能够直接恢复至满血。
+   - **烽火地带模式**：救援时还能移除队友血量上限减少的负面效果。
+
+综上所述，蜂医是一位集**远程群体治疗、战术烟幕掩护、快速救援与状态净化**于一体的全能支援型干员。
